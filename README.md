@@ -52,3 +52,18 @@ The model demonstrated higher recall for non-happiness, indicating it is more ef
 4. **Visualize Results**:
    Use the chart script to visualize performance metrics:
    python chart.py
+## Tools & Technologies
+
+- **Python**: Pandas, NLTK, Scikit-learn
+- **NLP**: TF-IDF Vectorization
+- **Model**: Logistic Regression
+
+## Future Work
+
+- Improve happiness detection by exploring more advanced models such as neural networks.
+- Expand the dataset to include more balanced classes.
+- Explore other emotions beyond happiness.
+
+## Contributors
+
+- Afsana Bhuiyan - [LinkedIn](https://www.linkedin.com/in/afsanabhuiyan/)
