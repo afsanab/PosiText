@@ -41,20 +41,20 @@ The model demonstrated higher recall for non-happiness, indicating it is more ef
 ## Installation & Usage
 
 1. **Clone the Repository**:
-   '''bash
+    ```bash
    git clone https://github.com/username/PosiText.git
    cd PosiText
 3. **Install Dependencies**:
    Make sure you have Python installed, then run:
-   '''bash
+    ```bash
    pip install -r requirements.txt
 5. **Run the Model**:
    Execute the main script to train and evaluate the model:
-   '''bash
+    ```bash
    python main.py
 7. **Visualize Results**:
    Use the chart script to visualize performance metrics:
-   '''bash
+    ```bash
    python chart.py
 ## Tools & Technologies
 
