@@ -46,3 +46,9 @@ The model demonstrated higher recall for non-happiness, indicating it is more ef
 2. **Install Dependencies**:
    Make sure you have Python installed, then run:
    pip install -r requirements.txt
+3. **Run the Model**:
+   Execute the main script to train and evaluate the model:
+   python main.py
+4. **Visualize Results**:
+   Use the chart script to visualize performance metrics:
+   python chart.py
